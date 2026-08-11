@@ -8,32 +8,29 @@ I enjoy working with data to identify patterns, solve business problems, and tra
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Data Analysis**
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- KPI Analysis
-- Business Insights
+### Data Analytics & BI
 
-**Databases & SQL**
-- SQL
-- PostgreSQL
-- MySQL
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-green)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
 
-**Programming**
-- Python
-- Pandas
-- NumPy
+### Databases
 
-**BI & Visualization**
-- Power BI
-- Tableau
-- DAX
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
 
-**Spreadsheets**
-- Microsoft Excel
+### Programming & Data
+
+![Python](https://img.shields.io/badge/Python-Programming-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
+
+### Core Analytics Skills
+
+`Data Cleaning` • `EDA` • `Data Visualization` • `DAX` • `Data Modeling` • `KPI Analysis`
 
 ---
 
