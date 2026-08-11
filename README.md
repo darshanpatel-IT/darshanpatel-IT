@@ -36,7 +36,7 @@ I enjoy working with data to identify patterns, solve business problems, and tra
 
 ## 📊 Featured Projects
 
-### 🏦 Bank Loan Risk Analytics
+### 🏦 [Bank Loan Risk Analytics](https://github.com/darshanpatel-IT/Bank_Loan_Risk_Analytics-)
 
 End-to-end banking analytics project focused on loan performance, repayment behavior, customer risk, and branch performance.
 
@@ -55,9 +55,11 @@ End-to-end banking analytics project focused on loan performance, repayment beha
 - Branch performance analysis
 - Interactive Power BI dashboards
 
+- 👉 **[View Project Repository](https://github.com/darshanpatel-IT/Bank_Loan_Risk_Analytics-)**
+
 ---
 
-### 🔐 Fraud BI System
+### 🔐 [Fraud BI System](https://github.com/darshanpatel-IT/Fraud-BI-System)
 
 End-to-end fraud analytics and business intelligence solution designed to analyze transaction behavior, fraud patterns, merchants, and customers.
 
@@ -75,6 +77,8 @@ End-to-end fraud analytics and business intelligence solution designed to analyz
 - Merchant performance analysis
 - Customer behavior analysis
 - Four interactive Power BI dashboards
+
+- 👉 **[View Project Repository](https://github.com/darshanpatel-IT/Fraud-BI-System)**
 
 ---
 
